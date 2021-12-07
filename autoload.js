@@ -42,6 +42,8 @@ if (screen.width >= 768) {
 // API 后端可自行搭建，参考 https://github.com/fghrsh/live2d_api
 // 初始化看板娘会自动加载指定目录下的 waifu-tips.json
 
+console.log('updated from my commit');
+
 console.log(`
   く__,.ヘヽ.        /  ,ー､ 〉
            ＼ ', !-─‐-i  /  /´
